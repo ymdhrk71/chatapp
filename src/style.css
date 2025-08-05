@@ -1,0 +1,19 @@
+body {
+	background-color: #fbe8d6;
+	margin: 0 auto;
+	max-width: 700px;
+	padding: 2em;
+	width: 100%;
+}
+
+.button-normal {
+	border: 1px solid #555;
+	background-color: #d9e9e8;
+	border-radius: 4px;
+	padding: 4px;
+}
+
+.button-normal:hover{
+	background-color: #7CB5BE;
+	box-shadow: 3px 3px 3px #707070;
+}
